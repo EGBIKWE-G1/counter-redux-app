@@ -1,0 +1,21 @@
+body {
+  background-image: url("../src/assets/numbers.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.App {
+  box-shadow: 5px 10px 8px 10px #888888;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 50px 20px;
+  text-shadow: 2px 2px red;
+  text-align: center;
+  padding: 1px 10px 30px;
+  margin: auto;
+  width: 35%;
+  color: white;
+  background-color: darkcyan;
+  background: linear-gradient(90deg, rgb(40, 40, 40) 0%, rgb(17, 17, 17) 100%);
+}
